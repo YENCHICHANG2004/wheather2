@@ -1,5 +1,5 @@
-flask==3.0.0
-line-bot-sdk==3.7
+Flask
+line-bot-sdk==3.4.0
+googletrans==4.0.0-rc1
 requests
 python-dotenv
-googletrans
